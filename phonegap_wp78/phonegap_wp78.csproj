@@ -119,6 +119,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="www\css\jquery.mobile-1.3.2.css" />
     <Content Include="www\css\jquery.mobile.structure-1.3.2.css" />
     <Content Include="www\img\poster.jpg" />
     <Content Include="www\js\jquery-2.0.3.js" />

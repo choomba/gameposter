@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- This file is auto-generated, do not edit! -jm -->
 <CordovaSourceDictionary>
+    <FilePath Value="www\css\jquery.mobile-1.3.2.css"/>
     <FilePath Value="www\css\jquery.mobile.structure-1.3.2.css"/>
     <FilePath Value="www\img\poster.jpg"/>
     <FilePath Value="www\js\jquery-2.0.3.js"/>
