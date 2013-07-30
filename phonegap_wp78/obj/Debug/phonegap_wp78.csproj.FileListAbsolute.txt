@@ -15,3 +15,20 @@ c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp
 c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\phonegap_wp78.dll
 c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\phonegap_wp78.pdb
 c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\XapCacheFile.xml
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\ApplicationIcon.png
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\Background.png
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\phonegap_wp78.dll
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\phonegap_wp78.pdb
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\AppManifest.xaml
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\phonegap_wp78.xap
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\App.g.i.cs
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\MainPage.g.i.cs
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\cordovalib\CordovaView.g.i.cs
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\Plugins\UI\AudioRecorder.g.i.cs
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\Plugins\UI\ImageCapture.g.i.cs
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\Plugins\UI\NotificationBox.g.i.cs
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\Plugins\UI\VideoRecorder.g.i.cs
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\phonegap_wp78.g.resources
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\phonegap_wp78.dll
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\phonegap_wp78.pdb
+C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\XapCacheFile.xml

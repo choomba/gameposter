@@ -1,32 +1,32 @@
-﻿<xapCache source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\phonegap_wp78.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="30.7.2013 14:14:17">
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="29.7.2013 9:52:42" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Background.png" archivePath="Background.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\phonegap_wp78.dll" archivePath="phonegap_wp78.dll" lastWriteTime="30.7.2013 14:00:15" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\css\jquery.mobile.structure-1.3.2.css" archivePath="www\css\jquery.mobile.structure-1.3.2.css" lastWriteTime="30.7.2013 13:46:15" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\img\poster.jpg" archivePath="www\img\poster.jpg" lastWriteTime="30.7.2013 13:59:04" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\js\jquery-2.0.3.js" archivePath="www\js\jquery-2.0.3.js" lastWriteTime="29.7.2013 10:35:49" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\js\jquery.mobile-1.3.2.js" archivePath="www\js\jquery.mobile-1.3.2.js" lastWriteTime="30.7.2013 13:46:11" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\css\bootstrap.css" archivePath="www\css\bootstrap.css" lastWriteTime="29.7.2013 10:33:41" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\css\bootstrap.min.css" archivePath="www\css\bootstrap.min.css" lastWriteTime="29.7.2013 10:33:41" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="30.7.2013 13:38:50" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\index.html" archivePath="www\index.html" lastWriteTime="30.7.2013 14:14:16" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\js\bootstrap.js" archivePath="www\js\bootstrap.js" lastWriteTime="29.7.2013 10:33:52" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\js\bootstrap.min.js" archivePath="www\js\bootstrap.min.js" lastWriteTime="29.7.2013 10:33:52" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\config.xml" archivePath="config.xml" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\resources\notification-beep.wav" archivePath="resources\notification-beep.wav" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\CordovaSourceDictionary.xml" archivePath="CordovaSourceDictionary.xml" lastWriteTime="30.7.2013 14:14:16" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="29.7.2013 9:52:07" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="29.7.2013 10:38:03" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="29.7.2013 9:52:06" />
-  <file source="C:\Users\AUTIOVI\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="29.7.2013 9:52:06" />
+﻿<xapCache source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\phonegap_wp78.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="30.7.2013 14:54:21">
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="29.7.2013 9:52:42" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Background.png" archivePath="Background.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\obj\Debug\phonegap_wp78.dll" archivePath="phonegap_wp78.dll" lastWriteTime="30.7.2013 14:00:15" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\css\jquery.mobile.structure-1.3.2.css" archivePath="www\css\jquery.mobile.structure-1.3.2.css" lastWriteTime="30.7.2013 13:46:15" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\img\poster.jpg" archivePath="www\img\poster.jpg" lastWriteTime="30.7.2013 13:59:04" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\js\jquery-2.0.3.js" archivePath="www\js\jquery-2.0.3.js" lastWriteTime="29.7.2013 10:35:49" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\js\jquery.mobile-1.3.2.js" archivePath="www\js\jquery.mobile-1.3.2.js" lastWriteTime="30.7.2013 13:46:11" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\css\bootstrap.css" archivePath="www\css\bootstrap.css" lastWriteTime="29.7.2013 10:33:41" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\css\bootstrap.min.css" archivePath="www\css\bootstrap.min.css" lastWriteTime="29.7.2013 10:33:41" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="30.7.2013 13:38:50" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\index.html" archivePath="www\index.html" lastWriteTime="30.7.2013 14:54:19" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\js\bootstrap.js" archivePath="www\js\bootstrap.js" lastWriteTime="29.7.2013 10:33:52" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\js\bootstrap.min.js" archivePath="www\js\bootstrap.min.js" lastWriteTime="29.7.2013 10:33:52" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\config.xml" archivePath="config.xml" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\resources\notification-beep.wav" archivePath="resources\notification-beep.wav" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\CordovaSourceDictionary.xml" archivePath="CordovaSourceDictionary.xml" lastWriteTime="30.7.2013 14:54:20" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="29.7.2013 9:52:07" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="29.7.2013 10:38:03" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="29.7.2013 9:52:06" />
+  <file source="C:\Users\AUTIOVI\Documents\GitHub\gameposter\phonegap_wp78\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="29.7.2013 9:52:06" />
 </xapCache>
