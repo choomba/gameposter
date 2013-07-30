@@ -1,0 +1,17 @@
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\ApplicationIcon.png
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\Background.png
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\phonegap_wp78.dll
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\phonegap_wp78.pdb
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\AppManifest.xaml
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\Bin\Debug\phonegap_wp78.xap
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\App.g.i.cs
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\MainPage.g.i.cs
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\cordovalib\CordovaView.g.i.cs
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\Plugins\UI\AudioRecorder.g.i.cs
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\Plugins\UI\ImageCapture.g.i.cs
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\Plugins\UI\NotificationBox.g.i.cs
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\Plugins\UI\VideoRecorder.g.i.cs
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\phonegap_wp78.g.resources
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\phonegap_wp78.dll
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\phonegap_wp78.pdb
+c:\users\autiovi\documents\visual studio 2010\Projects\phonegap_wp78\phonegap_wp78\obj\Debug\XapCacheFile.xml
